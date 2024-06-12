@@ -125,4 +125,9 @@ git rebase --continue
 >> второй уровень цитирования
 >>> третий уровень цитирования
 
+## *Автоматические ссылки*
+
+<http://example.com>
+
+address@example.com
 
